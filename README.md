@@ -1,6 +1,6 @@
 ### Hi there, I'm Naresh Yenagandula - aka [Codex][youtube] 👋
 
-## I'm a Developer, and Teacher!!
+## I'm a Developer!!
 
 - 😎 I'm an Experienced Python Developer.
 - 👶 I’m currently learning MEAN & MERN Stack.
