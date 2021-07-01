@@ -3,7 +3,7 @@
 ## I'm a Developer!!
 
 - 😎 I'm an Experienced Python Developer.
-- 👶 I’m currently learning MEAN & MERN Stack.
+- 👶 Experianced MEAN & MERN Stack Developer.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - 💬 Ask me about Python or any tech related stuff.
