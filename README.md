@@ -2,7 +2,7 @@
 
 ## I'm a Developer!!
 
-- 😎 I'm an Experienced Python Developer.
+- 😎 I'm an Experienced Node Js Developer.
 - 👶 Experienced MEAN Stack Developer.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
