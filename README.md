@@ -3,7 +3,7 @@
 ## I'm a Developer!!
 
 - 😎 I'm an Experienced Node Js Developer.
-- 👶 Experienced MEAN Stack Developer.
+- 👶 Experienced MERN Stack Developer.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - 💬 Ask me about Python, MERN or any tech related stuff.
